@@ -1,0 +1,18 @@
+{
+    "editor.cursorStyle": "line-thin",
+    "editor.fontFamily": "Iosevka, 'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.renderIndentGuides": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.scrollBeyondLastLine": false,
+    "explorer.openEditors.visible": 0,
+    "files.hotExit": "off",
+    "files.trimTrailingWhitespace": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.colorTheme": "Kimbie Dark",
+    "git.enableSmartCommit": true
+}
